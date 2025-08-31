@@ -27,7 +27,7 @@ export default function About() {
             variants={fadeInUp}
           >
             <img
-              src="/apoorv.jpeg"
+              src="/Self_1.jpg"
               alt="Apoorv Jain"
               className="w-full h-full object-cover rounded-2xl"
             />
@@ -35,30 +35,35 @@ export default function About() {
 
           <motion.div className="space-y-6" variants={staggerContainer}>
             <motion.p className="text-lg text-gray-600" variants={fadeInUp}>
-              Hi, I'm Apoorv Jain, a passionate Full Stack Developer.I 
-              love building full-stack and my tools are ReactJs, 
-              Javascript, NodeJs, Postgres, and SQL. I have good 
-              knowledge in the exquisite realm of Programming and
-              Web Development and the word 'Lisztomainiac' best 
-              describes me!
+            Hi, I’m Apoorv Jain, a Backend Engineer at MPL, where I design
+            and scale real-time, high-concurrency systems that power one
+            of the world’s most played money-based games, 8 Ball Pool.
+            My work involves building global matchmaking systems, fraud
+            prevention layers, WebSocket/GRPC-powered communication, and
+            Kafka-driven event pipelines—all optimized to deliver ultra-low
+            latency and seamless gameplay to millions of users worldwide.
+            I also developed Kubernetes-based auto-scaling solutions to 
+            handle unpredictable traffic spikes, ensuring consistent
+            reliability and precision at scale.
                
             </motion.p>
 
             <motion.p className="text-lg text-gray-600" variants={fadeInUp}>
-              With extensive experience in modern web technologies and a strong
-              foundation in both frontend and backend development, I help
-              businesses build scalable solutions and mentor aspiring developers
-              to achieve their goals.
+            With over 2 years of professional experience, I’ve gained
+            expertise in TypeScript, Java, Node.js, React, PostgreSQL,
+            SQL, Redis, Kafka, AWS, Docker, and Kubernetes. My focus
+            is on building scalable, fault-tolerant, and user-focused
+            systems, applying performance optimization and distributed
+            system design to solve real-world problems.
             </motion.p>
             <motion.p className="text-lg text-gray-600" variants={fadeInUp}>
-              I excel at coordinating cross-functional teams,
-             ensuring effective communication, and assisting
-              in project planning and execution. With 
-              2 years of invaluable experience, I've played
-              a pivotal role in supporting project lifecycles,
-              from inception to successful completion. As an
-              adept developer, I have a well-rounded programming
-              skill set and honed software development talents.
+            Previously, at Deloitte, I worked as a Full Stack Developer,
+            where I delivered enterprise-grade applications,
+            including a real-time chat platform (React.js, Node.js,
+            Express, MongoDB) that boosted client interaction by
+            30% and optimized backend–frontend communication by
+            80%. This role gave me a strong foundation in 
+            balancing frontend usability with backend scalability.
             </motion.p>
 
             

@@ -11,22 +11,22 @@ const skills = [
   {
     category: 'Backend Development',
     icon: Server,
-    skills: ['Node.js', 'Express', 'REST APIs'],
+    skills: ['Node.js', 'GRPC', 'Express', 'REST APIs', 'Kafka'],
   },
   {
     category: 'Database',
     icon: Database,
-    skills: ['PostgreSQL', 'MongoDB', 'Redis', 'Firebase'],
+    skills: ['Redis', 'PostgreSQL', 'MongoDB', 'Firebase'],
   },
   {
     category: 'DevOps',
     icon: Terminal,
-    skills: ['Docker', 'AWS', 'CI/CD', 'Linux', 'Git'],
+    skills: ['Docker', 'AWS', 'CI/CD', 'Linux', 'Git', 'Jenkins', 'Kibana'],
   },
   {
     category: 'Programming Languages',
     icon: Code,
-    skills: ['JavaScript', 'TypeScript', 'Python', 'Java', 'SQL'],
+    skills: ['JavaScript', 'TypeScript', 'Java', 'SQL'],
   },
   
 ];

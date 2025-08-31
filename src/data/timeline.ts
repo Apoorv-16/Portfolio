@@ -2,7 +2,15 @@ import { TimelineItem } from '../types';
 
 export const timelineData: TimelineItem[] = [
   {
-    year: '2022 - Present',
+    year: '2025 - Present',
+    title: 'Software Developer Engineer 1',
+    company: 'Mobile Premier League',
+    description: 'Backend Engineer designing and scaling real-time, low-latency systems for money-based games like 8 Ball Pool, including global matchmaking.',
+    icon: 'work'
+  },
+
+  {
+    year: '2022 - 2025',
     title: 'Software Developer Analyst',
     company: 'Deloitte USI',
     description: 'Software Development for Internal Usage and Statistical Management',
